@@ -115,7 +115,7 @@ function displayResults(results, container) {
       <li>За 1 час: ${costPerHour.toFixed(2)} руб.</li>
       <li>За 1 день: ${costPerDay.toFixed(2)} руб.</li>
       <li>За 1 неделю: ${costPerWeek.toFixed(2)} руб.</li>
-      <li>За 1 месяц: ${costPerMonth.toFixed(2)} руб.</li>
+      <li>За 1 месяц : ${costPerMonth.toFixed(2)} руб.</li>
       <li>За 1 год : ${costPerYear.toFixed(2)} руб.</li>
     </ul>
   `;
